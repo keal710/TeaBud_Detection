@@ -1,0 +1,810 @@
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000001.jpg 990,986,1143,1098,0 975,1213,1077,1462,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000002.jpg 482,1172,641,1333,0 1153,549,1347,684,0 526,247,761,478,0 904,1251,1037,1360,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000003.jpg 1128,421,1184,564,0 2,682,137,837,0 1186,429,1231,502,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000004.jpg 392,223,524,384,0 692,1406,886,1509,0 49,1649,151,1747,0 428,1427,565,1564,0 294,704,384,817,0 969,407,1220,586,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000005.jpg 480,1076,612,1178,0 716,723,828,776,0 1067,284,1188,374,0 510,72,594,162,0 1108,1396,1233,1457,0 288,1035,431,1107,0 400,858,647,980,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000006.jpg 580,125,696,307,0 8,239,237,343,0 1043,437,1226,541,0 696,949,945,1115,0 575,1572,833,1804,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000008.jpg 1022,688,1143,913,0 363,1288,455,1500,0 851,1357,986,1513,0 804,1135,1090,1380,0 884,333,1092,429,0 1124,229,1282,325,0 739,664,843,758,0 326,164,508,290,0 337,737,598,925,0 673,362,726,507,0 1020,455,1190,574,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000010.jpg 979,857,1216,1023,0 1002,1035,1208,1145,0 184,529,320,702,0 271,694,431,776,0 4,547,63,664,0 73,617,163,743,0 255,1078,441,1145,0 22,1070,135,1145,0 39,1462,157,1660,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000011.jpg 1224,143,1368,298,0 1106,813,1177,898,0 177,1625,298,1743,0 884,398,1059,574,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000012.jpg 161,631,318,831,0 324,709,457,896,0 1106,194,1282,315,0 979,623,1029,735,0 1014,1035,1190,1139,0 714,1292,1012,1417,0 896,998,939,1117,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000013.jpg 1004,1227,1131,1355,0 675,1280,898,1409,0 453,196,584,274,0 67,449,179,576,0 545,1611,731,1819,0 1037,860,1129,980,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000015.jpg 318,1264,510,1378,0 117,1239,177,1396,0 1086,1104,1182,1233,0 888,1196,969,1327,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000016.jpg 112,594,179,719,0 1045,362,1155,519,0 731,894,808,1025,0 826,349,898,462,0 331,1525,431,1674,0 778,1135,939,1247,0 471,1200,712,1460,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000017.jpg 263,227,357,439,0 665,235,718,390,0 1079,653,1167,784,0 657,757,790,860,0 561,1135,726,1253,0 728,1266,886,1358,0 65,1335,220,1613,0 488,449,637,517,0 577,2,694,131,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000018.jpg 84,984,171,1115,0 347,1392,484,1480,0 359,1319,435,1364,0 302,1657,467,1739,0 555,1094,704,1213,0 620,833,779,988,0 492,170,671,404,0 69,790,153,980,0 108,757,224,923,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000019.jpg 957,951,1022,1076,0 502,1478,579,1602,0 571,831,629,947,0 418,866,469,990,0 402,266,555,372,0 771,504,822,611,0 324,837,404,972,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000020.jpg 331,776,473,980,0 453,55,616,241,0 1041,1421,1124,1637,0 6,1421,110,1570,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000021.jpg 206,800,290,994,0 567,974,677,1129,0 1198,357,1275,482,0 1202,874,1324,1019,0 1200,1417,1257,1576,0 428,1635,531,1774,0 420,1119,531,1229,0 26,1264,157,1317,0 210,1680,369,1804,0 912,1274,1092,1458,0 577,568,829,766,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000022.jpg 488,933,586,1139,0 41,807,251,1041,0 475,482,583,643,0 786,402,871,549,0 575,1258,708,1380,0 714,1213,792,1351,0 1179,1337,1339,1388,0 906,968,1065,1127,0 841,129,963,245,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000023.jpg 477,113,569,262,0 971,4,1182,84,0 690,1274,804,1396,0 839,1345,994,1407,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000026.jpg 1167,713,1368,910,0 1135,398,1368,575,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000027.jpg 396,1521,547,1764,0 880,104,957,266,0 577,1406,657,1537,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000028.jpg 198,913,406,1082,0 8,447,126,621,0 1098,282,1229,353,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000029.jpg 467,719,577,931,0 928,619,1063,817,0 761,137,892,280,0 1243,1045,1367,1223,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000030.jpg 100,4,222,151,0 580,460,771,602,0 779,1435,1059,1643,0 779,543,957,737,0 537,327,731,443,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000031.jpg 994,468,1149,676,0 106,376,331,460,0 133,258,380,382,0 245,104,375,221,0 439,25,518,94,0 214,1060,386,1131,0 516,1486,659,1751,0 571,1253,702,1464,0 957,1290,1224,1468,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000032.jpg 643,29,745,117,0 816,2,1012,164,0 935,1533,1051,1723,0 488,474,577,566,0 390,1462,651,1594,0 1143,168,1184,309,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000033.jpg 635,1304,822,1572,0 796,768,929,998,0 569,288,706,498,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000034.jpg 596,1455,775,1623,0 528,864,735,911,0 710,590,851,664,0 12,1237,253,1525,0 569,1239,645,1380,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000037.jpg 841,819,1092,1235,0 1126,855,1349,1043,0 931,586,1368,857,0 826,9,1110,231,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000038.jpg 396,1096,651,1168,0 347,1621,696,1796,0 167,996,396,1206,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000039.jpg 829,988,943,1221,0 926,911,1114,1084,0 824,445,1004,823,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000040.jpg 665,641,861,911,0 471,329,1061,694,0 169,498,469,778,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000041.jpg 508,927,645,1053,0 537,1174,735,1349,0 659,468,829,606,0 1067,1549,1258,1824,0 794,1537,1020,1824,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000042.jpg 582,1119,937,1343,0 771,960,890,1129,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000043.jpg 680,521,904,968,0 629,233,728,358,0 169,1478,298,1604,0 251,513,339,607,0 371,355,604,445,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000045.jpg 1137,898,1226,1090,0 1247,1398,1368,1723,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000046.jpg 6,543,218,702,0 275,1270,439,1490,0 877,760,1257,960,0 849,449,1049,498,0 543,633,688,809,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000047.jpg 522,615,806,1043,0 639,1070,947,1337,0 208,1302,435,1502,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000048.jpg 137,1315,322,1502,0 16,968,255,1176,0 637,1153,943,1427,0 6,553,133,862,0 322,1125,555,1290,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000050.jpg 620,1172,884,1606,0 869,243,1212,602,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000051.jpg 498,1209,851,1639,0 1067,1362,1182,1680,0 169,188,404,578,0 135,741,320,892,0 1,162,169,286,0 1,996,173,1170,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000052.jpg 679,835,869,947,0 896,1419,1149,1604,0 533,1441,769,1713,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000053.jpg 328,1653,686,1824,0 1049,360,1273,564,0 1200,1502,1357,1625,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000054.jpg 763,535,875,700,0 663,139,961,335,0 90,719,380,909,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000056.jpg 806,880,988,1200,0 265,992,392,1302,0 14,6,108,262,0 22,280,153,396,0 967,572,1141,690,0 959,1384,1059,1555,0 810,1233,961,1339,0 639,1378,916,1564,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000057.jpg 837,994,1126,1111,0 329,611,463,757,0 1237,1609,1333,1794,0 349,466,457,606,0 1124,855,1343,1078,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000058.jpg 143,1178,441,1409,0 1100,780,1277,955,0 159,458,288,631,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000059.jpg 473,421,869,566,0 1,31,159,196,0 1031,7,1255,329,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000060.jpg 814,27,931,257,0 1016,1235,1328,1313,0 341,507,539,615,0 451,629,614,811,0 424,1027,551,1200,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000061.jpg 782,170,898,382,0 167,1166,359,1355,0 516,696,663,855,0 1110,1068,1312,1341,0 592,1468,759,1566,0 563,1631,718,1751,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000063.jpg 241,333,404,602,0 1179,1202,1349,1468,0 396,1294,512,1504,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000064.jpg 714,1,902,284,0 604,162,700,337,0 541,1486,665,1604,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000065.jpg 551,1625,892,1824,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000066.jpg 300,1325,467,1574,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000067.jpg 412,966,502,1082,0 159,435,341,674,0 784,4,980,155,0 829,155,1102,258,0 867,288,1020,413,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000068.jpg 624,141,714,347,0 645,1025,880,1251,0 257,1492,445,1600,0 1126,855,1368,1009,0 2,1502,77,1676,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000069.jpg 414,1094,741,1329,0 543,1698,810,1821,0 622,1547,900,1800,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000070.jpg 2,698,139,880,0 575,109,820,241,0 141,821,326,1007,0 437,1545,592,1645,0 218,1380,516,1513,0 312,1172,557,1374,0 1033,1082,1184,1282,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000071.jpg 1043,164,1288,268,0 912,190,1073,476,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000072.jpg 828,70,1059,258,0 1061,76,1328,241,0 1186,437,1365,574,0 1151,725,1353,1155,0 688,1664,1002,1760,0 279,494,341,690,0 200,666,380,906,0 384,80,618,345,0 575,239,800,439,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000073.jpg 1145,202,1306,484,0 1131,1090,1359,1388,0 1145,464,1329,590,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000074.jpg 451,1029,571,1264,0 139,758,308,939,0 249,888,439,1004,0 447,749,624,1011,0 63,1009,226,1157,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000075.jpg 212,1125,449,1260,0 1122,602,1329,813,0 955,1013,1037,1204,0 463,1033,663,1229,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000076.jpg 545,1221,694,1349,0 892,1064,1037,1194,0 559,953,759,1027,0 463,980,602,1170,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000077.jpg 316,31,365,223,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000078.jpg 606,968,841,1090,0 18,1560,155,1753,0 549,474,861,935,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000079.jpg 406,186,757,421,0 137,760,439,1009,0 622,653,931,894,0 463,843,733,1068,0 835,992,1304,1400,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000080.jpg 267,223,784,596,0 8,804,241,1239,0 892,970,1118,1168,0 1092,160,1263,331,0 259,1394,457,1821,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000081.jpg 4,1335,77,1531,0 692,498,926,766,0 192,1555,335,1676,0 622,1474,757,1682,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000083.jpg 349,478,724,680,0 198,735,445,962,0 31,1088,265,1221,0 190,1162,422,1372,0 6,1366,200,1788,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000084.jpg 24,425,373,751,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000085.jpg 820,1033,1171,1498,0 998,284,1286,623,0 535,213,745,407,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000086.jpg 16,166,341,1070,0 282,1345,584,1774,0 863,1296,1014,1398,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000087.jpg 688,639,904,749,0 84,809,224,1147,0 659,1325,922,1480,0 463,329,641,415,0 863,1515,1028,1613,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000088.jpg 1,647,222,1119,0 165,1264,700,1513,0 910,1204,1365,1406,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000089.jpg 943,866,1345,1284,0 231,1204,457,1462,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000090.jpg 47,572,131,809,0 461,755,710,1029,0 198,723,451,1158,0 133,1270,337,1539,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000091.jpg 614,611,877,833,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000092.jpg 920,1213,1165,1568,0 253,1578,600,1798,0 845,1657,1108,1768,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000093.jpg 737,678,1065,996,0 990,192,1145,447,0 1080,157,1368,330,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000095.jpg 663,970,1129,1490,0 592,58,782,502,0 820,51,1157,278,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000096.jpg 637,343,924,560,0 1139,1129,1368,1498,0 1053,721,1368,906,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000097.jpg 798,19,1171,449,0 777,1033,973,1262,0 822,1406,1086,1617,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000098.jpg 196,833,475,1141,0 328,1074,573,1345,0 514,398,837,586,0 877,417,1069,584,0 1055,445,1261,762,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000100.jpg 6,398,218,690,0 629,1290,763,1511,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000101.jpg 449,1521,586,1741,0 949,835,1194,1111,0 1039,449,1145,706,0 447,962,745,1202,0 88,1107,280,1323,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000103.jpg 924,451,1222,835,0 675,807,1055,958,0 816,990,1057,1286,0 12,823,235,1135,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000105.jpg 229,1368,747,1815,0 802,649,1190,1021,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000106.jpg 571,315,969,743,0 194,982,875,1200,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000107.jpg 333,1380,471,1602,0 606,970,849,1219,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000108.jpg 175,843,386,1119,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000109.jpg 469,976,614,1211,0 320,1162,877,1470,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000111.jpg 747,1162,969,1290,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000112.jpg 241,855,798,1245,0 1073,1023,1368,1202,0 726,7,1026,496,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000114.jpg 429,966,522,1227,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000115.jpg 420,517,767,1009,0 143,586,280,778,0 361,1506,575,1823,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000116.jpg 465,496,773,688,0 298,1543,451,1686,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000117.jpg 971,1304,1035,1368,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000118.jpg 198,576,537,1011,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000120.jpg 245,862,479,1160,0 1018,1243,1222,1645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000121.jpg 1167,584,1347,823,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000122.jpg 684,968,837,1025,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000123.jpg 73,713,406,921,0 847,78,1029,570,0 539,692,853,917,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000124.jpg 233,1400,410,1629,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000126.jpg 2,1384,337,1572,0 533,1323,773,1668,0 406,1096,512,1294,0 1,1604,120,1772,0 1110,1235,1257,1537,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000127.jpg 202,1484,414,1696,0 755,2,1182,300,0 918,1009,1055,1188,0 73,1066,255,1311,0 598,653,820,868,0 318,6,541,117,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000128.jpg 712,572,973,815,0 951,1013,1094,1198,0 712,1131,839,1525,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000130.jpg 857,739,1365,1188,0 2,976,290,1415,0 792,1139,1055,1306,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000131.jpg 1016,996,1259,1247,0 914,1296,1324,1704,0 263,211,480,443,0 1022,406,1312,700,0 716,131,973,527,0 1149,796,1361,1049,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000132.jpg 990,468,1368,806,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000133.jpg 882,1302,1256,1824,0 235,1349,516,1594,0 122,1168,445,1288,0 704,294,1224,749,0 116,627,402,896,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000134.jpg 149,484,265,674,0 333,1315,604,1492,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000135.jpg 259,982,410,1280,0 728,1466,1228,1670,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000137.jpg 918,1251,1343,1519,0 614,1217,722,1409,0 694,943,861,1096,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000139.jpg 1077,490,1324,772,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000140.jpg 57,862,328,1096,0 828,882,1079,1060,0 565,1143,786,1486,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000141.jpg 837,1143,1165,1676,0 35,1404,243,1786,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000143.jpg 182,317,551,606,0 739,692,1184,1064,0 786,11,916,360,0 1177,145,1368,366,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000144.jpg 859,1100,1231,1655,0 84,1,671,443,0 757,35,1106,311,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000146.jpg 486,866,833,1202,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000147.jpg 947,55,1226,300,0 614,500,839,831,0 718,1168,847,1272,0 869,855,1137,1241,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000149.jpg 612,558,890,927,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000150.jpg 784,482,1071,739,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000151.jpg 122,119,222,243,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000152.jpg 547,1364,747,1645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000154.jpg 610,421,1010,853,0 10,1200,318,1449,0 414,658,639,847,0 35,553,302,825,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000155.jpg 63,525,322,784,0 59,1104,245,1362,0 94,1360,282,1824,0 651,1041,898,1294,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000158.jpg 31,907,704,1613,0 920,780,1324,1053,0 1165,1178,1339,1449,0 1014,411,1318,715,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000159.jpg 422,47,673,296,0 1035,647,1314,1000,0 767,1460,1051,1692,0 692,786,941,1013,0 851,353,914,523,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000160.jpg 610,909,743,1190,0 800,774,1051,1162,0 692,1274,977,1506,0 602,1511,865,1700,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000162.jpg 290,1304,624,1474,0 453,1594,584,1792,0 1026,1262,1368,1394,0 143,468,318,568,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000163.jpg 312,7,426,149,0 118,47,196,215,0 1173,1119,1345,1400,0 1184,857,1333,1039,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000164.jpg 484,531,698,609,0 437,1668,796,1815,0 894,835,1059,1004,0 1100,417,1363,541,0 1110,715,1231,917,0 526,1400,616,1696,0 177,562,429,792,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000165.jpg 128,1131,269,1498,0 453,1539,608,1766,0 69,78,235,376,0 137,392,304,621,0 124,757,402,857,0 29,984,194,1058,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000166.jpg 18,1533,218,1782,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000167.jpg 677,209,857,453,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000168.jpg 710,657,941,909,0 796,1504,875,1643,0 63,698,279,884,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000169.jpg 677,1192,1028,1417,0 733,1509,1114,1694,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000170.jpg 492,1064,667,1360,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000171.jpg 545,1347,888,1586,0 90,1198,171,1402,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000172.jpg 228,786,618,949,0 1110,392,1269,713,0 35,313,133,513,0 28,807,118,980,0 708,4,857,155,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000173.jpg 749,388,867,619,0 892,423,1090,596,0 853,1613,1073,1749,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000174.jpg 363,900,628,1088,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000175.jpg 1186,258,1353,600,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000176.jpg 422,758,604,884,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000177.jpg 537,1527,790,1684,0 971,1127,1204,1321,0 761,407,984,606,0 373,698,841,984,0 596,25,849,323,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000179.jpg 808,131,1098,355,0 955,1062,1228,1351,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000180.jpg 500,355,784,513,0 631,751,739,1058,0 257,886,626,1039,0 365,1257,579,1531,0 522,590,806,749,0 755,107,1067,451,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000181.jpg 216,515,422,707,0 457,1074,682,1339,0 2,684,186,815,0 522,606,616,735,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000182.jpg 826,1029,1143,1272,0 533,1151,826,1404,0 716,607,941,807,0 22,1376,275,1531,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000183.jpg 945,90,1129,307,0 553,1039,867,1513,0 1251,1315,1368,1525,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000184.jpg 255,131,386,362,0 635,1251,794,1460,0 435,1388,588,1715,0 75,817,288,1113,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000185.jpg 502,1364,928,1511,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000186.jpg 4,1260,194,1492,0 359,737,484,898,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000187.jpg 949,633,1037,888,0 877,943,1065,1194,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000188.jpg 439,1545,531,1706,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000189.jpg 486,658,814,937,0 467,1468,596,1706,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000191.jpg 871,1543,1084,1757,0 673,509,773,590,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000192.jpg 359,1198,408,1329,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000193.jpg 735,1209,1016,1617,0 1155,1013,1355,1392,0 1137,235,1300,607,0 6,255,80,482,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000194.jpg 435,1419,712,1686,0 929,1331,1129,1476,0 994,1590,1328,1819,0 1,1335,112,1525,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000195.jpg 745,857,847,1013,0 626,300,818,388,0 928,298,1073,435,0 1288,1229,1368,1478,0 967,1513,1259,1709,0 377,378,486,551,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000196.jpg 469,911,678,1194,0 1,941,451,1353,0 647,1427,786,1596,0 757,415,1108,598,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000197.jpg 157,580,380,764,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000198.jpg 979,229,1241,300,0 194,68,294,245,0 528,1223,763,1376,0 822,1280,1075,1486,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000199.jpg 492,707,579,904,0 296,1070,339,1241,0 559,1515,782,1700,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000200.jpg 439,972,551,1111,0 988,1498,1157,1760,0 655,1096,861,1358,0 312,1082,600,1506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000201.jpg 971,962,1122,1131,0 810,239,929,411,0 1216,66,1345,182,0 512,317,743,455,0 249,294,369,429,0 165,404,347,649,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000203.jpg 610,1353,849,1543,0 741,494,1008,762,0 16,1131,165,1245,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000204.jpg 35,592,404,837,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000205.jpg 549,1339,822,1553,0 379,317,526,451,0 296,492,577,682,0 910,290,1018,500,0 241,902,328,1131,0 267,1382,545,1531,0 94,1502,263,1598,0 67,998,341,1353,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000207.jpg 265,725,684,911,0 149,1168,447,1388,0 663,1525,788,1709,0 533,17,822,247,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000208.jpg 12,237,324,445,0 661,1137,843,1331,0 610,1351,847,1502,0 720,829,1031,970,0 767,623,1092,807,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000209.jpg 184,678,563,955,0 924,931,1196,1153,0 361,482,533,529,0 575,170,714,413,0 80,1492,302,1613,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000212.jpg 551,584,671,721,0 102,349,247,515,0 159,1576,253,1639,0 733,727,1118,1002,0 586,1502,796,1800,0 779,9,928,292,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000214.jpg 1210,453,1353,657,0 192,600,273,739,0 816,460,1065,588,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000215.jpg 1161,1468,1324,1604,0 792,107,888,253,0 614,1078,855,1206,0 1114,927,1324,1047,0 182,1417,329,1627,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000216.jpg 245,466,502,715,0 759,1558,937,1657,0 1210,1223,1310,1402,0 933,1247,1082,1358,0 498,409,686,555,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000217.jpg 1241,90,1355,392,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000218.jpg 349,739,424,874,0 741,866,814,1021,0 806,231,877,345,0 918,829,1041,990,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000219.jpg 598,833,804,1011,0 702,1441,888,1692,0 814,337,1045,513,0 588,9,765,174,0 1118,706,1324,1153,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000221.jpg 210,796,300,1060,0 567,966,686,1135,0 957,1296,1100,1462,0 1196,1406,1292,1641,0 431,1629,620,1766,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000223.jpg 496,113,563,262,0 702,1304,788,1392,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000224.jpg 980,921,1080,1106,0 114,227,241,333,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000226.jpg 302,1560,514,1719,0 714,62,977,484,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000227.jpg 8,917,157,1053,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000228.jpg 67,60,229,325,0 898,349,1067,566,0 377,1498,555,1600,0 231,876,439,1078,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000229.jpg 355,1684,614,1824,0 312,107,428,260,0 718,219,955,357,0 796,1278,914,1460,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000230.jpg 718,92,865,343,0 175,355,396,613,0 1033,488,1184,606,0 986,688,1296,747,0 996,1358,1253,1566,0 643,398,839,566,0 859,196,1008,378,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000233.jpg 482,1209,737,1470,0 1100,1174,1367,1696,0 1016,196,1292,380,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000234.jpg 398,711,580,907,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000235.jpg 1141,296,1359,584,0 720,439,822,607,0 641,809,980,962,0 594,198,780,366,0 653,1147,1094,1347,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000236.jpg 959,164,1200,409,0 528,284,777,545,0 531,1135,810,1655,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000239.jpg 712,651,1198,815,0 679,25,984,202,0 416,1125,537,1309,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000240.jpg 339,592,533,1007,0 263,1584,804,1823,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000241.jpg 20,1111,184,1400,0 649,982,775,1076,0 663,335,837,662,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000243.jpg 428,547,628,684,0 479,739,600,851,0 429,133,594,280,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000245.jpg 122,598,235,753,0 555,449,747,633,0 833,531,1026,702,0 1065,313,1220,492,0 1243,1125,1368,1272,0 1241,631,1337,849,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000246.jpg 629,770,755,984,0 933,323,1088,447,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000247.jpg 326,1325,514,1372,0 941,341,1108,549,0 684,1007,786,1060,0 214,1104,275,1192,0 718,1082,804,1196,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000248.jpg 263,964,347,1041,0 167,751,231,917,0 8,104,57,298,0 92,917,177,1004,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000249.jpg 492,886,663,964,0 231,262,402,306,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000250.jpg 202,145,312,449,0 535,186,671,527,0 1031,919,1233,1084,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000252.jpg 418,394,482,760,0 657,641,718,886,0 200,100,357,298,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000253.jpg 480,631,553,858,0 249,1133,404,1241,0 728,1658,861,1770,0 947,1690,1004,1809,0 1229,1427,1320,1541,0 1257,1658,1316,1804,0 339,270,406,411,0 416,488,561,586,0 626,288,735,417,0 477,253,531,362,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000254.jpg 1051,390,1133,504,0 445,1329,522,1443,0 569,813,649,896,0 686,66,755,149,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000255.jpg 508,1121,614,1264,0 424,1535,557,1680,0 845,858,961,927,0 992,935,1092,1021,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000256.jpg 37,164,180,315,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000257.jpg 455,1551,528,1794,0 61,476,361,596,0 767,1021,906,1172,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000258.jpg 673,1251,904,1319,0 1202,1623,1355,1786,0 208,1660,339,1711,0 859,519,953,674,0 1079,417,1239,545,0 6,753,194,821,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000259.jpg 1088,1139,1186,1368,0 933,409,1145,494,0 569,1,685,164,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000260.jpg 920,1219,990,1345,0 184,1409,280,1574,0 369,725,520,792,0 41,60,137,221,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000263.jpg 743,29,853,157,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000264.jpg 720,951,857,1141,0 490,1441,580,1578,0 380,1582,465,1755,0 661,249,784,315,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000265.jpg 651,1476,755,1682,0 914,223,1133,331,0 1314,142,1368,313,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000266.jpg 849,719,975,860,0 1031,333,1163,445,0 1151,202,1249,398,0 392,1670,608,1823,0 271,1566,553,1662,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000267.jpg 965,239,1035,364,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000268.jpg 845,1409,945,1562,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000269.jpg 1029,1157,1100,1315,0 363,100,539,162,0 359,1557,418,1690,0 1273,598,1337,762,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000271.jpg 218,578,277,760,0 818,529,902,657,0 1108,888,1228,1019,0 796,170,937,264,0 845,333,1033,447,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000272.jpg 588,1,818,129,0 49,1088,143,1196,0 541,86,618,270,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000274.jpg 329,625,422,804,0 937,558,1149,721,0 704,572,904,788,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000275.jpg 802,564,935,800,0 933,835,1112,927,0 477,907,602,1074,0 1155,662,1302,827,0 741,1580,902,1676,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000276.jpg 153,1458,228,1607,0 47,435,118,600,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000277.jpg 965,241,1010,433,0 290,633,361,823,0 792,1480,857,1609,0 757,1090,869,1204,0 594,1202,735,1360,0 145,1527,224,1690,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000278.jpg 533,974,637,1174,0 79,617,294,731,0 577,894,824,1009,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000279.jpg 490,1047,665,1131,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000280.jpg 996,1594,1057,1790,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000281.jpg 473,1606,541,1809,0 988,1223,1186,1300,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000282.jpg 814,1215,1041,1266,0 1082,853,1167,1033,0 1065,435,1133,586,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000283.jpg 853,184,937,382,0 502,427,651,511,0 1210,1025,1345,1133,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000284.jpg 1290,278,1357,500,0 157,1015,286,1151,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000285.jpg 1128,872,1235,1037,0 814,188,924,347,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000286.jpg 467,1070,679,1170,0 1180,684,1267,870,0 200,1121,386,1217,0 796,1404,922,1478,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000287.jpg 361,429,494,529,0 377,300,504,360,0 1114,1453,1220,1731,0 1257,1441,1337,1668,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000288.jpg 1,1511,135,1653,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000289.jpg 386,270,439,419,0 284,39,516,168,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000290.jpg 1190,1378,1298,1488,0 545,1117,675,1215,0 1139,129,1241,257,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000292.jpg 35,800,126,962,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000293.jpg 135,1217,216,1280,0 453,1268,541,1333,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000294.jpg 290,1684,437,1770,0 629,1317,826,1402,0 663,1445,829,1517,0 210,1531,329,1602,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000295.jpg 333,1129,402,1184,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000296.jpg 477,980,631,1145,0 347,911,414,1068,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000297.jpg 592,317,743,451,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000299.jpg 1102,670,1194,815,0 873,874,1004,939,0 214,1270,265,1398,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000300.jpg 6,78,61,160,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000301.jpg 404,1117,482,1247,0 843,1525,908,1639,0 875,174,929,306,0 335,1502,412,1621,0 194,1549,255,1619,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000304.jpg 796,90,900,292,0 318,860,433,998,0 402,176,492,255,0 171,219,328,276,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000306.jpg 643,655,765,813,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000307.jpg 1135,421,1247,494,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000308.jpg 914,462,1022,584,0 837,270,949,327,0 767,398,814,506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000310.jpg 616,539,729,633,0 351,1551,494,1735,0 190,1629,308,1766,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000311.jpg 416,1,456,123,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000312.jpg 739,623,900,855,0 504,372,729,492,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000313.jpg 645,1188,808,1337,0 951,139,1053,247,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000314.jpg 1,1278,92,1362,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000315.jpg 829,629,926,831,0 453,411,641,543,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000316.jpg 524,1480,616,1747,0 369,1333,490,1533,0 420,4,498,200,0 202,294,265,380,0 51,360,102,494,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000317.jpg 918,670,1037,858,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000318.jpg 457,837,567,1019,0 202,1204,390,1337,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000319.jpg 151,1141,251,1292,0 804,1031,1006,1145,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000320.jpg 310,413,408,515,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000322.jpg 531,982,647,1084,0 1094,957,1282,1062,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000323.jpg 496,792,708,843,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000324.jpg 39,990,204,1247,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000326.jpg 594,953,667,1060,0 828,313,871,443,0 145,1276,247,1376,0 531,1570,624,1676,0 1086,1770,1241,1819,0 179,129,220,219,0 286,157,347,251,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000327.jpg 769,225,837,378,0 620,133,682,219,0 700,188,741,292,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000328.jpg 241,239,343,449,0 737,592,947,655,0 988,119,1094,174,0 371,366,539,466,0 1008,804,1098,915,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000329.jpg 1204,751,1329,906,0 1049,1484,1196,1582,0 982,1588,1077,1686,0 8,1376,79,1488,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000330.jpg 88,113,169,404,0 110,780,188,947,0 163,372,237,519,0 424,1284,549,1464,0 208,586,379,719,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000331.jpg 704,255,824,353,0 1061,223,1122,360,0 526,796,622,968,0 384,1351,486,1482,0 877,1180,963,1306,0 1190,762,1367,845,0 96,804,182,911,0 688,978,771,1119,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000332.jpg 1112,588,1214,764,0 757,1376,896,1507,0 704,1109,914,1200,0 326,584,443,700,0 1,382,277,455,0 1,481,126,582,0 910,343,1014,480,0 1084,107,1202,215,0 1022,1066,1077,1162,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000333.jpg 743,1607,851,1749,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000334.jpg 965,545,1092,774,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000335.jpg 1124,1147,1235,1331,0 773,431,869,517,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000336.jpg 1102,1343,1226,1423,0 155,1147,280,1337,0 116,190,249,280,0 1047,558,1243,647,0 998,302,1153,345,0 992,225,1079,280,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000337.jpg 467,768,535,896,0 912,49,971,229,0 1190,753,1243,898,0 288,1041,424,1153,0 292,778,406,888,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000338.jpg 382,727,539,849,0 798,258,898,404,0 598,568,698,711,0 1049,64,1206,225,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000339.jpg 904,588,1024,680,0 1014,704,1122,798,0 6,1413,133,1517,0 424,1333,510,1457,0 1288,269,1368,302,0 896,398,935,498,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000340.jpg 1275,902,1368,1022,0 324,449,461,525,0 855,453,949,543,0 177,927,298,1031,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000341.jpg 1000,1690,1271,1802,0 280,1521,414,1655,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000342.jpg 22,1457,200,1629,0 465,1474,580,1819,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000343.jpg 690,829,820,947,0 33,1141,188,1266,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000344.jpg 355,445,559,688,0 1118,204,1243,417,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000346.jpg 508,551,665,660,0 231,1378,310,1441,0 153,1537,273,1607,0 1,1417,92,1494,0 559,1149,635,1245,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000347.jpg 600,609,667,747,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000348.jpg 939,1055,1010,1196,0 1090,1058,1241,1190,0 833,417,1049,482,0 369,106,498,200,0 273,66,363,184,0 847,500,939,572,0 837,309,969,384,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000349.jpg 865,774,1029,906,0 928,78,1006,217,0 914,233,982,349,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000351.jpg 267,506,367,694,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000352.jpg 588,1033,669,1278,0 277,841,404,898,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000353.jpg 739,633,884,772,0 94,876,153,968,0 341,764,396,858,0 526,592,610,737,0 53,586,163,672,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000354.jpg 802,794,980,906,0 1084,692,1126,807,0 1143,368,1231,466,0 1206,1107,1314,1149,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000356.jpg 320,506,429,578,0 355,788,494,880,0 992,882,1080,957,0 900,1325,977,1433,0 890,545,979,617,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000357.jpg 502,106,728,298,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000359.jpg 653,462,851,633,0 1063,1131,1249,1207,0 26,496,80,655,0 257,898,335,1039,0 257,1190,320,1409,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000361.jpg 110,1506,210,1586,0 390,558,490,668,0 792,658,929,843,0 745,109,865,384,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000362.jpg 1175,1606,1271,1768,0 39,464,94,609,0 959,1672,1074,1824,0 188,1453,298,1541,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000363.jpg 2,400,231,517,0 1167,488,1251,574,0 559,835,624,953,0 245,898,284,996,0 859,1717,890,1821,0 167,1617,277,1686,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000365.jpg 496,178,596,313,0 704,347,765,439,0 679,819,741,970,0 265,904,326,998,0 367,1711,445,1800,0 1108,927,1184,1043,0 1194,970,1257,1082,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000366.jpg 492,915,541,1007,0 339,1164,414,1231,0 253,1215,308,1311,0 375,1568,477,1596,0 508,1547,580,1623,0 849,1207,926,1323,0 1253,694,1329,762,0 677,1690,745,1800,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000367.jpg 1151,235,1326,296,0 1229,21,1286,115,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000368.jpg 33,1204,114,1376,0 1177,984,1245,1066,0 1179,762,1277,827,0 986,986,1098,1051,0 1171,1560,1308,1741,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000369.jpg 143,1121,235,1304,0 777,927,955,1004,0 518,1655,622,1747,0 218,1494,345,1560,0 1284,1311,1347,1413,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000370.jpg 502,329,626,402,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000372.jpg 1139,1015,1292,1094,0 333,292,426,368,0 316,480,484,539,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000373.jpg 775,921,957,1043,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000374.jpg 4,1227,210,1339,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000375.jpg 882,774,982,833,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000376.jpg 282,72,451,198,0 306,1243,490,1372,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000377.jpg 631,774,720,1066,0 753,786,816,913,0 729,1290,879,1382,0 486,1449,586,1486,0 455,1490,565,1639,0 1010,843,1122,929,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000378.jpg 429,1621,510,1815,0 473,247,545,345,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000379.jpg 2,280,218,378,0 947,1264,1063,1460,0 265,1415,482,1549,0 759,594,812,690,0 1151,474,1292,558,0 816,209,947,345,0 626,196,733,270,0 1194,1060,1347,1178,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000380.jpg 929,917,1084,1027,0 1010,602,1133,713,0 698,835,812,906,0 629,123,712,235,0 384,1219,514,1317,0 690,1615,767,1741,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000381.jpg 641,351,698,543,0 829,311,871,433,0 1000,1455,1110,1662,0 924,78,986,176,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000382.jpg 514,304,594,466,0 522,1458,647,1568,0 357,1521,431,1604,0 298,1615,408,1715,0 649,576,822,700,0 696,419,739,513,0 569,498,671,557,0 704,1533,877,1623,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000384.jpg 1286,141,1368,265,0 794,649,922,731,0 1037,204,1102,292,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000385.jpg 867,117,926,237,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000386.jpg 343,921,402,1090,0 998,1617,1098,1749,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000387.jpg 880,921,1022,1053,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000388.jpg 688,351,890,404,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000389.jpg 961,502,1000,625,0 551,860,651,915,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000391.jpg 184,1158,269,1382,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000394.jpg 537,804,657,960,0 282,1386,422,1496,0 551,1427,712,1523,0 898,1266,967,1372,0 10,331,79,568,0 306,102,400,270,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000395.jpg 1255,513,1326,662,0 1251,407,1333,498,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000396.jpg 73,1204,180,1404,0 557,411,624,513,0 357,315,463,462,0 149,641,198,788,0 304,764,369,864,0 8,317,77,453,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000397.jpg 612,180,655,333,0 545,562,610,655,0 826,711,928,849,0 702,686,802,751,0 212,45,388,323,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000398.jpg 1024,592,1090,760,0 802,923,869,1047,0 792,751,869,878,0 845,62,920,174,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000399.jpg 433,457,529,537,0 177,1507,353,1596,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000401.jpg 826,239,947,394,0 494,315,720,445,0 829,1437,965,1607,0 155,1345,314,1394,0 1210,60,1333,164,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000402.jpg 179,1266,247,1394,0 898,986,965,1080,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000403.jpg 20,1131,157,1247,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000404.jpg 259,735,396,835,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000405.jpg 371,304,498,447,0 404,425,477,592,0 231,907,331,1100,0 284,1398,359,1476,0 531,1060,602,1147,0 645,1331,706,1429,0 365,1406,418,1470,0 912,307,1012,484,0 771,992,896,1086,0 553,398,608,494,0 92,1104,155,1198,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000406.jpg 614,1000,680,1113,0 443,1021,510,1166,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000407.jpg 128,1270,296,1378,0 637,174,751,213,0 1145,1474,1351,1572,0 1086,878,1114,990,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000408.jpg 759,643,877,735,0 551,1037,649,1109,0 149,362,251,427,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000409.jpg 433,692,467,847,0 979,956,1045,1097,0 367,482,518,539,0 626,160,675,286,0 1249,23,1296,180,0 345,1076,398,1180,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000410.jpg 367,1237,412,1364,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000411.jpg 941,1051,1108,1137,0 931,692,1096,743,0 1239,676,1347,749,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000412.jpg 549,580,663,704,0 743,1696,790,1813,0 157,1582,253,1633,0 1061,596,1184,688,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000413.jpg 1192,1107,1265,1215,0 479,1364,533,1470,0 563,796,643,919,0 708,492,847,584,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000414.jpg 196,760,255,880,0 1198,427,1245,590,0 106,1570,194,1662,0 943,447,1069,529,0 663,458,726,594,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000415.jpg 739,596,786,707,0 784,127,835,253,0 179,1523,284,1625,0 202,1211,320,1302,0 1104,937,1196,1017,0 865,1684,902,1794,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000417.jpg 259,188,322,321,0 1263,84,1298,247,0 949,837,1031,913,0 824,1672,871,1725,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000419.jpg 712,900,749,990,0 1216,1076,1302,1155,0 747,741,873,829,0 24,457,169,509,0 888,343,953,390,0 716,1602,771,1651,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000420.jpg 649,1429,718,1564,0 1059,1507,1116,1586,0 229,1051,296,1168,0 592,1478,657,1566,0 694,584,808,617,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000421.jpg 1194,1411,1255,1572,0 420,1629,529,1764,0 18,1247,104,1321,0 218,800,277,988,0 428,1357,475,1445,0 779,931,859,986,0 569,321,612,415,0 422,4,490,145,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000422.jpg 486,490,553,633,0 212,798,255,904,0 971,1017,1073,1098,0 794,392,886,549,0 1186,1331,1324,1380,0 1269,1115,1363,1204,0 31,845,200,1043,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000423.jpg 490,113,549,255,0 835,1351,969,1409,0 718,1300,792,1400,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000424.jpg 133,207,241,321,0 679,453,800,529,0 206,696,284,788,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000425.jpg 1108,743,1175,949,0 147,1464,288,1533,0 1231,1196,1363,1341,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000427.jpg 1010,406,1080,498,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000428.jpg 339,888,437,988,0 849,745,957,831,0 1106,1600,1188,1755,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000429.jpg 647,47,720,160,0 892,251,986,313,0 353,1760,445,1821,0 926,1666,1022,1772,0 484,1657,565,1747,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000430.jpg 867,209,943,357,0 980,694,1137,753,0 1029,1592,1128,1698,0 390,1194,441,1278,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000431.jpg 635,1421,761,1462,0 600,1272,720,1378,0 416,1190,488,1286,0 502,547,600,625,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000433.jpg 1237,1158,1320,1366,0 1100,1292,1165,1429,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000434.jpg 396,717,496,821,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000436.jpg 663,1349,802,1529,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000439.jpg 735,660,963,733,0 388,1158,529,1306,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000441.jpg 737,333,798,453,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000442.jpg 879,1390,988,1470,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000443.jpg 437,555,594,621,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000445.jpg 1065,317,1184,453,0 1265,1157,1329,1266,0 131,606,251,735,0 567,445,735,641,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000446.jpg 628,788,712,945,0 531,396,614,502,0 445,1292,543,1388,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000447.jpg 941,339,1084,537,0 718,1078,820,1198,0 41,1409,147,1515,0 202,1094,294,1206,0 324,1319,533,1390,0 333,1072,390,1202,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000448.jpg 2,96,65,294,0 112,915,173,1021,0 163,729,222,921,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000449.jpg 224,272,371,313,0 490,882,655,962,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000450.jpg 200,135,304,453,0 1053,937,1239,1084,0 541,192,673,492,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000451.jpg 579,484,673,641,0 2,1198,171,1400,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000452.jpg 402,460,482,772,0 657,686,724,892,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000453.jpg 488,629,573,833,0 241,1139,396,1245,0 940,1694,1020,1824,0 1267,1674,1329,1802,0 616,286,757,388,0 333,262,392,411,0 473,257,522,360,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000455.jpg 522,1147,604,1255,0 853,862,959,927,0 994,937,1126,1017,0 406,1580,528,1672,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000456.jpg 184,1341,318,1439,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000457.jpg 100,500,357,596,0 765,1013,898,1168,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000458.jpg 718,1257,896,1323,0 1216,1625,1333,1788,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000459.jpg 1082,1192,1196,1364,0 567,45,641,164,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000460.jpg 902,1221,1004,1351,0 408,723,545,792,0 45,78,133,213,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000461.jpg 679,1482,773,1658,0 553,580,653,704,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000462.jpg 875,323,977,515,0 31,343,126,492,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000463.jpg 749,33,831,160,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000464.jpg 728,958,824,1115,0 392,1582,469,1758,0 653,251,780,321,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000465.jpg 924,237,1096,319,0 661,1490,743,1686,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000468.jpg 592,4,659,74,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000469.jpg 1029,1172,1094,1317,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000470.jpg 98,1551,282,1655,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000472.jpg 555,72,584,278,0 641,6,761,84,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000474.jpg 347,625,400,774,0 937,564,1145,682,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000476.jpg 167,1455,228,1623,0 35,439,118,574,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000477.jpg 967,262,1024,427,0 594,1217,684,1335,0 790,1504,855,1607,0 745,1094,859,1206,0 165,1547,222,1682,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000478.jpg 535,968,586,1162,0 602,878,790,1015,0 73,617,267,729,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000479.jpg 667,778,775,841,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000480.jpg 45,209,122,306,0 1065,1009,1128,1055,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000481.jpg 1006,1223,1153,1307,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000483.jpg 861,215,924,388,0 486,433,610,506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000484.jpg 180,1031,259,1145,0 1292,323,1345,488,0 1039,151,1145,251,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000485.jpg 1131,890,1216,1009,0 820,200,904,349,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000488.jpg 2,1527,126,1637,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000489.jpg 290,41,480,180,0 824,160,914,274,0 398,266,431,384,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000490.jpg 204,1666,306,1772,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000491.jpg 1241,1031,1302,1237,0 941,896,1053,1039,0 375,917,486,990,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000492.jpg 43,804,120,978,0 306,831,443,919,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000494.jpg 312,1690,426,1768,0 700,1453,782,1523,0 220,1539,322,1594,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000495.jpg 324,1131,410,1178,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000496.jpg 506,992,614,1147,0 355,933,404,1076,0 261,819,414,917,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000497.jpg 598,317,739,457,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000498.jpg 733,690,847,743,0 1008,655,1124,702,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000499.jpg 1110,670,1188,807,0 871,864,941,953,0 196,1294,255,1378,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000501.jpg 420,1141,469,1247,0 875,174,929,307,0 857,1531,906,1627,0 359,1513,400,1607,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000502.jpg 555,906,675,996,0 1122,707,1190,831,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000505.jpg 463,1458,524,1545,0 47,1237,102,1353,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000506.jpg 908,223,1043,423,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000507.jpg 1149,413,1249,502,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000510.jpg 349,1547,445,1674,0 196,1629,308,1782,0 639,553,724,631,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000511.jpg 412,2,459,129,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000513.jpg 639,1192,796,1323,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000514.jpg 977,621,1069,772,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000516.jpg 545,1460,608,1760,0 365,1357,486,1547,0 437,6,496,164,0 51,364,96,494,0 190,290,265,382,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000517.jpg 220,364,288,433,0 194,170,288,290,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000519.jpg 145,1166,243,1300,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000520.jpg 322,423,392,519,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000521.jpg 992,317,1104,407,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000523.jpg 522,798,704,857,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000524.jpg 112,1004,200,1198,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000527.jpg 712,249,822,355,0 1065,215,1106,351,0 880,1211,949,1294,0 677,1006,759,1115,0 388,1329,490,1488,0 86,815,159,902,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000530.jpg 971,547,1088,747,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000532.jpg 147,1151,229,1286,0 110,231,247,286,0 1086,574,1241,643,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000533.jpg 292,1047,408,1125,0 479,766,516,888,0 300,776,363,882,0 916,51,967,221,0 1194,755,1239,892,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000534.jpg 1165,80,1204,137,0 612,566,671,645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000535.jpg 892,411,929,490,0 1284,266,1368,318,0 1029,745,1114,796,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000536.jpg 341,451,455,515,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000537.jpg 1073,1704,1265,1798,0 277,1523,394,1647,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000538.jpg 31,1449,208,1611,0 465,1472,567,1790,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000539.jpg 679,851,798,941,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000540.jpg 402,527,535,678,0 1124,219,1243,415,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000541.jpg 918,709,998,862,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000542.jpg 559,537,669,637,0 159,1541,255,1613,0 1,1433,65,1506,0 231,1372,318,1433,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000543.jpg 592,609,669,733,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000545.jpg 863,768,975,880,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000547.jpg 1200,976,1326,1076,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000548.jpg 592,1037,673,1282,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000549.jpg 741,631,894,764,0 100,872,137,970,0 349,768,396,864,0 531,594,608,713,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000551.jpg 253,84,375,168,0 890,1090,945,1170,0 708,1092,757,1213,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000552.jpg 1000,882,1067,958,0 896,1339,975,1433,0 379,800,484,882,0 314,494,400,570,0 4,94,86,170,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000554.jpg 480,1292,518,1468,0 555,633,641,725,0 339,127,379,255,0 1263,1374,1328,1435,0 877,1678,965,1737,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000556.jpg 1002,1039,1153,1255,0 1149,815,1284,921,0 73,584,202,700,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000557.jpg 384,555,461,657,0 22,584,63,735,0 743,125,847,351,0 114,1509,202,1578,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000558.jpg 196,1451,286,1543,0 959,1664,1043,1811,0 1190,1607,1261,1747,0 41,462,96,607,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000559.jpg 245,892,300,994,0 1171,486,1235,582,0 165,1604,275,1694,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000561.jpg 271,900,312,1004,0 686,815,733,984,0 724,343,769,451,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000562.jpg 355,1170,414,1233,0 277,1211,300,1304,0 504,1541,584,1619,0 396,1564,477,1598,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000563.jpg 1155,221,1318,290,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000564.jpg 1212,1600,1308,1729,0 1171,772,1284,825,0 1179,972,1241,1053,0 988,990,1086,1045,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000565.jpg 771,915,896,998,0 1286,1309,1347,1423,0 516,1649,626,1733,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000566.jpg 14,417,71,537,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000567.jpg 1090,1025,1133,1106,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000569.jpg 818,925,955,1031,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000570.jpg 47,1229,210,1313,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000571.jpg 896,776,988,827,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000572.jpg 294,76,455,182,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000573.jpg 633,774,714,1055,0 763,800,808,890,0 449,1490,561,1625,0 482,1449,582,1480,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000574.jpg 475,249,528,335,0 437,1633,492,1811,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000575.jpg 763,604,806,688,0 945,1258,1020,1457,0 1169,1562,1226,1686,0 6,280,212,384,0 261,1413,469,1543,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000576.jpg 706,1653,755,1737,0 1018,606,1124,698,0 649,117,716,213,0 957,953,1082,1017,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000578.jpg 675,1525,837,1629,0 369,1515,433,1596,0 308,1611,410,1704,0 682,580,812,684,0 514,300,586,453,0 704,429,745,519,0 33,129,80,209,0 424,466,494,557,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000579.jpg 1098,302,1206,357,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000580.jpg 1057,194,1096,288,0 1279,139,1357,253,0 824,655,914,709,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000581.jpg 869,117,941,213,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000582.jpg 353,925,396,1080,0 1008,1609,1102,1727,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000583.jpg 894,913,1024,1041,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000584.jpg 679,353,873,406,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000586.jpg 288,290,431,382,0 626,1335,671,1402,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000587.jpg 200,1143,261,1388,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000588.jpg 557,945,700,994,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000590.jpg 908,1268,957,1351,0 541,809,626,941,0 331,92,408,204,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000591.jpg 1251,511,1316,645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000594.jpg 802,919,861,1053,0 1029,588,1077,741,0 861,70,906,151,0 804,758,855,864,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000595.jpg 165,1507,333,1607,0 573,1529,641,1590,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000597.jpg 1212,560,1292,772,0 879,872,929,962,0 933,774,984,853,0 208,715,253,857,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000598.jpg 1186,378,1233,488,0 304,427,451,506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000599.jpg 675,174,767,311,0 400,1343,492,1427,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000600.jpg 206,525,288,715,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000602.jpg 120,1319,192,1390,0 186,1241,235,1394,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000603.jpg 733,490,894,658,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000604.jpg 257,721,373,841,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000605.jpg 377,309,482,413,0 424,417,467,592,0 561,400,598,509,0 492,1213,579,1255,0 531,1062,596,1135,0 294,1394,367,1476,0 249,1284,339,1307,0 86,1111,133,1170,0 239,909,308,1080,0 649,1319,700,1435,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000606.jpg 608,998,686,1131,0 479,1219,551,1264,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000608.jpg 765,647,833,715,0 159,360,263,419,0 606,1409,657,1466,0 561,1039,673,1100,0 1029,827,1088,884,0 1184,1021,1222,1094,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000609.jpg 175,670,324,817,0 439,694,471,839,0 345,1078,388,1178,0 984,976,1043,1084,0 1186,929,1241,998,0 1257,29,1294,178,0 633,166,692,278,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000610.jpg 365,1260,400,1355,0 1247,917,1298,990,0 202,931,263,992,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000611.jpg 916,692,1063,751,0 1239,682,1361,758,0 941,1049,1026,1115,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000612.jpg 155,1584,249,1637,0 586,1635,651,1700,0 741,1704,788,1807,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000613.jpg 477,1366,518,1453,0 1184,1104,1265,1202,0 563,792,643,915,0 398,349,477,429,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000614.jpg 1206,423,1247,586,0 198,772,253,866,0 959,447,1063,525,0 661,466,716,558,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000615.jpg 733,598,784,700,0 786,133,828,262,0 831,113,875,186,0 1112,935,1167,1015,0 177,1539,251,1629,0 208,1219,306,1304,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000616.jpg 271,870,329,966,0 247,466,324,558,0 831,1543,926,1625,0 877,576,926,631,0 582,443,688,486,0 743,6,841,55,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000617.jpg 967,839,1018,929,0 1265,92,1306,213,0 255,182,316,311,0 433,1209,484,1309,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000618.jpg 904,823,957,929,0 980,851,1049,962,0 755,874,794,988,0 361,733,412,872,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000619.jpg 710,902,739,992,0 708,1602,779,1639,0 20,462,137,506,0 1216,1053,1296,1153,0 749,757,863,827,0 882,339,943,378,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000621.jpg 222,802,273,958,0 14,1257,104,1327,0 428,1633,524,1755,0 1192,1413,1253,1568,0 420,2,492,111,0 573,329,608,411,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000623.jpg 494,107,563,255,0 839,1362,973,1411,0 720,1304,790,1390,0 1075,23,1175,62,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000624.jpg 165,200,241,292,0 682,462,784,523,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000625.jpg 155,1458,275,1533,0 1237,1196,1351,1317,0 1106,739,1169,937,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000626.jpg 428,1535,484,1709,0 720,286,804,415,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000627.jpg 998,392,1075,496,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000628.jpg 363,874,439,984,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000629.jpg 896,247,996,309,0 349,1758,429,1813,0 935,1662,984,1766,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000630.jpg 986,700,1137,764,0 1047,1594,1137,1692,0 855,204,957,357,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000631.jpg 635,1427,755,1462,0 598,1268,718,1378,0 410,1176,488,1292,0 308,243,394,343,0 529,200,590,358,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000633.jpg 1233,1160,1308,1394,0 1098,1294,1163,1415,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000635.jpg 733,435,788,574,0 622,909,794,968,0 522,1162,657,1217,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000636.jpg 673,1329,792,1533,0 1186,7,1269,80,0 945,327,1022,415,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000638.jpg 443,586,529,823,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000639.jpg 726,658,955,733,0 406,1162,496,1315,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000640.jpg 345,584,528,972,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000643.jpg 918,611,990,688,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000644.jpg 675,478,737,574,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000645.jpg 1069,311,1198,457,0 1255,1151,1351,1278,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000646.jpg 624,776,741,949,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000647.jpg 949,335,1092,549,0 328,1329,502,1370,0 43,1406,145,1529,0 726,1074,808,1176,0 202,1102,282,1198,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000648.jpg 8,80,65,290,0 169,753,231,929,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000649.jpg 220,260,363,304,0 498,890,639,966,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000650.jpg 204,137,302,449,0 539,180,665,486,0 1069,925,1241,1086,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000651.jpg 586,486,680,643,0 4,1245,165,1398,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000652.jpg 412,437,477,786,0 651,651,728,892,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000653.jpg 480,635,579,823,0 239,1127,400,1249,0 949,1698,1014,1809,0 1251,1694,1329,1815,0 1222,1431,1320,1529,0 412,488,535,582,0 480,257,518,355,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000654.jpg 1065,384,1118,494,0 449,1331,510,1431,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000655.jpg 528,1135,612,1268,0 853,868,951,927,0 998,943,1094,1021,0 402,1555,563,1692,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000656.jpg 173,1343,310,1464,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000657.jpg 65,502,359,596,0 449,1558,543,1774,0 773,1009,861,1133,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000660.jpg 904,1217,996,1362,0 390,725,557,792,0 51,82,137,211,0 177,1447,267,1564,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000661.jpg 682,1480,773,1645,0 720,227,814,311,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000663.jpg 757,37,835,160,0 1261,227,1339,311,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000664.jpg 724,957,829,1098,0 496,1437,557,1545,0 384,1606,451,1760,0 667,251,777,313,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000665.jpg 922,233,1092,315,0 1304,157,1367,319,0 653,1484,745,1680,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000666.jpg 855,755,959,857,0 1031,339,1163,441,0 404,1674,541,1798,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000668.jpg 824,1441,906,1572,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000669.jpg 1037,1145,1096,1317,0 1177,29,1257,86,0 1265,592,1326,755,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000670.jpg 100,1553,296,1655,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000671.jpg 222,592,261,733,0 1071,817,1143,890,0 1286,1068,1329,1135,0 822,543,892,662,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000673.jpg 616,807,784,849,0 684,472,826,590,0 329,619,502,758,0 782,658,900,837,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000674.jpg 329,613,404,800,0 943,558,1143,678,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000676.jpg 161,1445,229,1617,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000677.jpg 975,243,1020,435,0 788,1502,863,1609,0 594,1231,688,1357,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000678.jpg 84,617,273,729,0 541,966,618,1176,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000679.jpg 1077,29,1200,141,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000680.jpg 1063,996,1157,1066,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000681.jpg 167,531,347,594,0 990,1219,1179,1306,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000682.jpg 1059,872,1179,998,0 826,1225,1035,1268,0 1069,449,1133,557,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000683.jpg 861,204,939,382,0 492,419,639,511,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000684.jpg 1294,296,1365,482,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000685.jpg 818,194,912,355,0 1139,874,1224,1013,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000686.jpg 1184,678,1241,872,0 467,1104,682,1160,0 790,1409,906,1492,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000687.jpg 304,588,371,688,0 357,406,510,537,0 371,288,473,343,0 1122,1451,1204,1727,0 1263,1457,1343,1670,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000688.jpg 1,1510,118,1649,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000689.jpg 294,45,479,176,0 388,280,428,409,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000690.jpg 1202,1396,1282,1484,0 1153,145,1255,217,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000691.jpg 357,939,484,990,0 1239,1013,1290,1245,0 935,909,1059,1035,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000692.jpg 59,845,116,968,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000693.jpg 143,1211,239,1278,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000694.jpg 312,1688,435,1778,0 229,1535,347,1592,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000695.jpg 326,1123,443,1184,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000696.jpg 498,986,620,1157,0 347,919,410,1070,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000697.jpg 606,319,743,500,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000698.jpg 739,700,896,747,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000699.jpg 1106,668,1186,811,0 869,874,984,929,0 212,1306,259,1388,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000700.jpg 477,649,600,709,0 1,84,63,158,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000701.jpg 849,1547,912,1633,0 351,1498,404,1609,0 882,174,928,307,0 1280,232,1368,329,0 412,1125,471,1243,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000702.jpg 222,1182,279,1302,0 541,907,677,1009,0 1124,709,1192,813,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000703.jpg 133,915,280,984,0 675,94,751,211,0 655,1468,753,1584,0 1026,276,1110,345,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000705.jpg 457,1455,524,1558,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000707.jpg 1145,415,1251,498,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000708.jpg 828,280,947,329,0 767,404,816,506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000709.jpg 747,580,812,821,0 8,633,179,723,0 963,1690,1026,1823,0 710,1172,835,1384,0 957,733,1110,884,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000712.jpg 741,666,869,855,0 494,374,704,466,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000714.jpg 992,623,1067,768,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000715.jpg 826,655,929,833,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000717.jpg 920,662,1029,849,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000718.jpg 453,851,563,1029,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000719.jpg 137,1141,263,1294,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000721.jpg 980,217,1141,329,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000722.jpg 151,641,245,709,0 1094,957,1282,1055,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000723.jpg 518,792,688,849,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000725.jpg 1214,757,1304,892,0 986,1592,1065,1692,0 1049,1498,1198,1586,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000726.jpg 98,123,165,427,0 112,766,167,957,0 161,364,233,529,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000727.jpg 88,813,163,925,0 390,1374,477,1484,0 677,994,777,1125,0 545,843,598,958,0 1063,215,1141,374,0 718,264,826,353,0 879,1178,945,1296,0 1192,762,1367,843,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000728.jpg 20,386,279,460,0 1139,584,1210,760,0 708,1121,906,1202,0 767,1325,877,1498,0 331,590,439,711,0 43,911,214,978,0 1028,1066,1086,1166,0 922,327,1000,488,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000731.jpg 1128,1155,1222,1307,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000732.jpg 151,1157,275,1337,0 118,196,267,286,0 1045,553,1243,645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000733.jpg 300,772,367,876,0 290,1035,412,1125,0 484,768,520,909,0 914,41,969,227,0 1192,751,1241,880,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000734.jpg 28,1176,198,1262,0 1141,78,1206,172,0 598,551,684,702,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000736.jpg 875,447,947,547,0 320,460,465,519,0 541,1055,610,1115,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000737.jpg 267,1523,400,1651,0 1033,1706,1265,1800,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000738.jpg 24,1453,220,1609,0 461,1472,580,1798,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000740.jpg 375,462,547,682,0 1126,200,1241,413,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000741.jpg 922,719,994,864,0 984,613,1020,727,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000742.jpg 545,547,661,647,0 200,1474,320,1511,0 161,1535,288,1625,0 226,1368,314,1439,0 557,1133,645,1253,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000743.jpg 590,609,661,758,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000744.jpg 1114,1053,1233,1194,0 949,1064,1000,1194,0 845,427,1047,482,0 851,511,931,570,0 839,325,977,392,0 290,68,347,178,0 377,111,500,211,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000745.jpg 865,778,1018,921,0 937,92,1022,229,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000746.jpg 290,1019,447,1196,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000747.jpg 1190,992,1326,1082,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000748.jpg 588,1023,680,1274,0 257,841,398,902,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000749.jpg 743,641,879,762,0 71,592,182,674,0 524,592,606,721,0 306,774,404,896,0 100,878,137,982,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000750.jpg 1090,688,1126,815,0 1173,25,1257,176,0 1110,353,1241,468,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000751.jpg 863,1053,953,1166,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000752.jpg 373,802,482,886,0 318,500,416,568,0 984,862,1075,951,0 877,529,988,615,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000753.jpg 512,106,726,294,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000754.jpg 479,1306,514,1462,0 557,639,645,741,0 328,129,392,276,0 1057,984,1161,1070,0 1233,1382,1328,1435,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000756.jpg 59,566,198,696,0 1010,1039,1151,1260,0 1139,807,1294,915,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000757.jpg 120,1519,220,1582,0 771,1227,888,1276,0 14,590,104,749,0 747,111,851,388,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000758.jpg 35,466,102,647,0 1186,1609,1261,1749,0 963,1672,1055,1809,0 196,1451,286,1535,0 14,709,102,802,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000760.jpg 1088,1186,1202,1296,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000761.jpg 280,907,312,1009,0 1104,929,1177,1045,0 369,1709,441,1813,0 726,358,761,476,0 1182,949,1275,1094,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000762.jpg 353,1166,426,1231,0 494,915,551,1013,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000763.jpg 1157,235,1320,282,0 1231,19,1282,123,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000766.jpg 1,419,71,563,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000767.jpg 1043,1329,1157,1470,0 1080,986,1157,1094,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000768.jpg 1165,1009,1282,1082,0 355,307,424,364,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000769.jpg 775,935,943,1049,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000770.jpg 1,1229,214,1334,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000771.jpg 869,778,979,851,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000772.jpg 282,70,524,192,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000773.jpg 633,770,710,1041,0 459,1509,567,1631,0 753,798,800,909,0 677,1070,733,1206,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000774.jpg 435,1633,490,1819,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000775.jpg 763,594,800,694,0 6,284,228,388,0 941,1233,1079,1453,0 273,1417,510,1560,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000776.jpg 1004,600,1133,721,0 688,1639,763,1731,0 775,1025,949,1137,0 890,906,1082,1023,0 635,121,722,239,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000777.jpg 992,1458,1102,1672,0 933,72,984,192,0 649,353,722,537,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000778.jpg 508,306,594,466,0 682,1529,835,1617,0 296,1619,398,1721,0 353,1523,428,1615,0 673,576,812,711,0 561,492,655,547,0 698,423,739,506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000779.jpg 1100,298,1263,390,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000780.jpg 771,651,924,737,0 1041,207,1098,313,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000781.jpg 857,129,955,227,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000782.jpg 345,925,398,1090,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000784.jpg 686,349,888,394,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000786.jpg 286,286,433,382,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000788.jpg 569,945,708,1007,0 1031,11,1096,188,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000789.jpg 290,1223,447,1313,0 786,625,894,782,0 694,764,743,921,0 763,943,863,1002,0 922,482,977,684,0 1167,486,1210,686,0 843,64,902,190,0 743,276,775,374,0 1273,123,1326,213,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000790.jpg 533,815,631,947,0 908,1262,955,1378,0 867,1386,975,1431,0 314,100,400,282,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000791.jpg 1255,517,1329,666,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000792.jpg 77,1204,165,1400,0 300,764,357,855,0 569,404,604,511,0 363,323,433,462,0 18,307,65,429,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000795.jpg 167,1509,343,1609,0 571,1531,655,1586,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000796.jpg 739,1372,865,1421,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000798.jpg 1169,382,1229,517,0 314,429,449,509,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000799.jpg 675,184,790,339,0 406,1435,490,1555,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000800.jpg 206,521,292,749,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000801.jpg 812,241,935,390,0 504,323,639,400,0 159,1339,263,1392,0 1026,962,1100,1033,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000802.jpg 186,1251,255,1390,0 129,1309,182,1398,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000803.jpg 753,502,914,645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000804.jpg 253,711,384,847,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000805.jpg 412,431,488,598,0 377,311,494,431,0 771,994,886,1074,0 647,1319,700,1460,0 282,1398,359,1470,0 361,1404,435,1484,0 531,1068,612,1151,0 92,1113,155,1176,0 243,1272,347,1309,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000806.jpg 598,1002,682,1127,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000807.jpg 124,1278,241,1382,0 1145,1484,1345,1572,0 657,172,761,209,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000808.jpg 143,364,265,431,0 543,1041,659,1102,0 765,631,873,745,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000809.jpg 173,672,320,829,0 345,1074,388,1184,0 433,700,475,841,0 922,931,980,1082,0 980,984,1041,1094,0 343,480,529,531,0 1263,31,1288,194,0 624,166,692,290,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000810.jpg 363,1251,392,1353,0 722,906,808,964,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000811.jpg 916,694,1088,741,0 1245,680,1349,749,0 933,1047,1098,1135,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000812.jpg 143,1582,259,1639,0 722,1686,794,1813,0 580,1625,665,1696,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000813.jpg 218,1298,312,1455,0 484,1364,531,1453,0 400,345,490,441,0 567,792,641,911,0 1196,1098,1257,1209,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000814.jpg 1200,423,1241,598,0 190,582,284,706,0 200,766,259,884,0 935,457,1073,529,0 112,1580,182,1660,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000815.jpg 186,1535,265,1629,0 194,1213,320,1306,0 745,596,788,694,0 780,141,837,272,0 1112,927,1186,1015,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000816.jpg 261,853,333,974,0 822,1549,929,1627,0 247,462,351,590,0 884,564,939,627,0 584,453,690,480,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000817.jpg 255,180,318,325,0 1267,82,1302,247,0 965,843,1014,937,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000818.jpg 906,821,949,937,0 975,843,1045,960,0 755,868,798,994,0 557,1213,586,1302,0 1218,1676,1304,1704,0 800,500,855,564,0 800,225,857,339,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000819.jpg 706,906,749,998,0 722,1594,769,1637,0 1214,1051,1294,1162,0 755,753,865,823,0 602,898,692,957,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000821.jpg 930,1198,1040,1330,0 792,1125,918,1152,0 911,1151,993,1185,0 483,807,612,893,0 405,490,522,565,0 1030,307,1092,390,0 1124,1,1188,97,0 1096,319,1147,426,0 1524,210,1633,261,0 1337,42,1382,178,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000823.jpg 801,1085,953,1149,0 1266,1261,1330,1345,0 1421,1267,1506,1343,0 117,991,205,1043,0 15,868,115,954,0 308,749,433,820,0 934,503,995,587,0 1412,119,1551,175,0 1635,862,1754,940,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000824.jpg 117,819,259,871,0 25,177,64,274,0 1357,396,1411,533,0 1308,569,1398,639,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000825.jpg 1241,1202,1345,1315,0 1106,751,1167,933,0 145,1464,249,1539,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000826.jpg 710,280,792,417,0 822,231,926,404,0 429,1555,479,1702,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000827.jpg 994,409,1067,480,0 53,951,124,1035,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000828.jpg 345,880,435,988,0 782,643,910,709,0 1112,1611,1184,1762,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000829.jpg 345,1758,447,1824,0 928,1662,1012,1770,0 890,249,986,321,0 657,49,716,145,0 192,1525,226,1658,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000830.jpg 986,688,1135,760,0 1028,1596,1126,1698,0 890,204,945,341,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000831.jpg 633,1423,753,1460,0 600,1266,706,1374,0 414,1188,488,1282,0 316,245,400,339,0 524,198,604,353,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000832.jpg 1051,223,1106,388,0 435,1178,514,1243,0 537,1266,586,1347,0 882,1123,1002,1249,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000834.jpg 396,721,494,804,0 845,1431,908,1539,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000835.jpg 628,907,816,972,0 529,1158,669,1206,0 733,433,792,582,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000837.jpg 314,1153,508,1329,0 547,909,624,1121,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000838.jpg 445,592,531,819,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000839.jpg 414,1153,506,1311,0 739,658,992,733,0 210,1494,292,1596,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000842.jpg 867,1382,977,1470,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000843.jpg 482,743,584,835,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000844.jpg 673,476,735,582,0 543,1576,600,1727,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000845.jpg 1075,325,1200,457,0 1257,1155,1355,1276,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000846.jpg 628,778,726,960,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000847.jpg 941,335,1086,551,0 43,1409,143,1515,0 726,1078,826,1198,0 680,1002,739,1080,0 328,1313,508,1382,0 202,1098,269,1194,0 335,1098,367,1209,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000848.jpg 1,100,75,272,0 104,939,180,1031,0 155,768,228,909,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000849.jpg 496,888,635,964,0 228,264,371,315,0 790,70,902,129,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000850.jpg 208,137,290,447,0 1055,933,1233,1088,0 543,186,653,472,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000851.jpg 584,474,677,643,0 1,1239,163,1378,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000852.jpg 420,445,471,772,0 645,666,728,894,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000853.jpg 482,629,567,837,0 239,1143,396,1243,0 241,1351,335,1394,0 726,1657,849,1766,0 950,1688,1029,1824,0 1261,1676,1329,1817,0 1228,1425,1306,1527,0 349,272,382,376,0 482,260,522,366,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000855.jpg 520,1131,612,1266,0 414,1541,565,1682,0 857,862,965,927,0 992,939,1120,1015,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000856.jpg 1,192,165,310,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000857.jpg 71,500,367,580,0 835,613,871,707,0 451,1564,559,1772,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000858.jpg 675,1264,922,1315,0 1220,1635,1331,1780,0 210,1657,357,1702,0 890,541,984,639,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000859.jpg 565,41,643,151,0 937,407,1116,480,0 1086,1188,1192,1364,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000860.jpg 388,727,543,798,0 41,58,129,215,0 906,1231,990,1362,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000861.jpg 684,1488,771,1643,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000862.jpg 880,325,979,500,0 422,888,506,980,0 31,360,128,484,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000863.jpg 1110,827,1226,1023,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000864.jpg 724,947,849,1121,0 388,1582,449,1760,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000865.jpg 918,231,1094,307,0 1312,145,1365,321,0 655,1492,741,1688,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000866.jpg 861,749,963,851,0 414,1666,573,1821,0 1028,339,1163,443,0 282,1555,522,1664,0 1159,209,1212,404,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000867.jpg 965,235,1039,355,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000868.jpg 579,1,661,80,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000869.jpg 1029,1147,1092,1331,0 373,106,524,157,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000870.jpg 106,1562,320,1657,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000871.jpg 218,602,259,737,0 1071,819,1131,896,0 1110,953,1165,1021,0 1290,1055,1335,1135,0 826,547,900,657,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000874.jpg 329,627,412,796,0 949,560,1155,686,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000877.jpg 167,1566,204,1686,0 971,255,1028,427,0 598,1225,682,1351,0 782,1486,849,1606,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000878.jpg 535,980,590,1176,0 594,902,804,1004,0 98,623,263,741,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000879.jpg 529,731,780,847,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000880.jpg 6,176,129,311,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000881.jpg 41,1078,88,1200,0 982,1221,1188,1313,0 473,1629,537,1806,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000882.jpg 1073,451,1131,588,0 1043,876,1188,1011,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000883.jpg 863,196,922,394,0 492,421,657,509,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000885.jpg 1129,878,1204,1025,0 824,211,910,351,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000886.jpg 449,1104,690,1157,0 780,1404,908,1486,0 1190,676,1243,874,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000887.jpg 365,417,498,535,0 369,304,471,343,0 1124,1462,1210,1731,0 1259,1425,1333,1670,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000888.jpg 1,1492,122,1651,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000889.jpg 388,270,443,398,0 292,417,398,604,0 284,51,498,166,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000890.jpg 1194,1378,1273,1496,0 1145,141,1233,223,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000891.jpg 373,913,488,978,0 1241,1011,1300,1239,0 931,896,1065,1023,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000892.jpg 39,800,116,974,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000893.jpg 139,1207,235,1282,0 449,1262,602,1376,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000894.jpg 216,1543,328,1596,0 308,1674,449,1768,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000897.jpg 600,307,737,470,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000898.jpg 743,692,890,745,0 957,651,1122,690,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000899.jpg 1092,674,1190,807,0 863,882,973,937,0 210,1272,259,1396,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000900.jpg 469,660,594,704,0 8,66,71,172,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000901.jpg 416,1133,461,1241,0 353,1504,404,1602,0 835,1539,922,1623,0 1279,246,1368,323,0 882,174,937,311,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000902.jpg 545,913,671,1017,0 1120,709,1220,827,0 355,602,479,692,0 382,700,516,819,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000903.jpg 137,929,282,978,0 661,1468,735,1590,0 679,80,749,217,0 1016,266,1110,353,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000904.jpg 324,829,422,1011,0 802,94,902,296,0 186,219,326,264,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000905.jpg 1043,725,1169,874,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000907.jpg 1147,413,1277,507,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000908.jpg 761,394,810,506,0 849,266,949,323,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000910.jpg 361,1560,445,1682,0 206,1633,279,1751,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000912.jpg 735,657,877,847,0 494,364,680,445,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000913.jpg 653,1170,806,1329,0 79,778,228,827,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000914.jpg 8,1255,120,1366,0 992,611,1075,745,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000916.jpg 541,1480,608,1753,0 365,1357,494,1539,0 194,294,273,372,0 426,2,498,176,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000917.jpg 922,676,1029,860,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000919.jpg 153,1145,267,1302,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000920.jpg 1220,1173,1308,1253,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000921.jpg 953,219,1128,384,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000922.jpg 1090,958,1286,1062,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000923.jpg 508,794,714,851,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000924.jpg 39,980,212,1231,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000925.jpg 1222,751,1308,888,0 982,1598,1065,1707,0 1047,1494,1208,1600,0 10,1382,75,1482,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000926.jpg 88,88,165,445,0 163,368,235,507,0 128,788,182,947,0 31,715,59,839,0 590,1492,673,1582,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000927.jpg 716,258,824,353,0 1067,217,1133,366,0 388,1337,514,1490,0 879,1194,957,1282,0 686,998,779,1111,0 555,829,602,955,0 92,809,179,902,0 1143,543,1188,645,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000928.jpg 331,594,439,715,0 6,474,120,572,0 1,384,282,456,0 1149,582,1212,739,0 1028,1066,1069,1153,0 780,1384,884,1506,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000929.jpg 779,1604,839,1749,0 665,1688,790,1776,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000930.jpg 328,217,433,335,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000931.jpg 1129,1153,1226,1335,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000932.jpg 151,1160,249,1323,0 120,198,284,276,0 1067,560,1233,641,0 396,1070,479,1266,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000933.jpg 300,780,357,874,0 284,1047,404,1127,0 479,768,516,900,0 920,49,967,207,0 1200,755,1241,860,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000934.jpg 329,1417,361,1496,0 618,631,692,672,0 477,831,555,919,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000935.jpg 906,611,1035,678,0 1028,717,1118,798,0 429,1337,512,1449,0 1286,266,1363,309,0 890,404,928,480,0 922,486,1010,521,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000936.jpg 1279,907,1357,1011,0 780,1129,882,1170,0 343,458,453,513,0 179,962,277,1021,0 553,1047,612,1117,0 884,462,945,533,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000937.jpg 277,1523,431,1653,0 1022,1704,1257,1790,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000938.jpg 1,1447,206,1655,0 465,1468,571,1815,0 237,737,337,962,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000940.jpg 361,457,537,682,0 1129,184,1277,409,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000941.jpg 922,733,1018,892,0 988,625,1028,727,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000943.jpg 594,611,671,743,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000944.jpg 1114,1058,1229,1182,0 943,1062,994,1184,0 831,433,1049,470,0 853,496,935,574,0 294,76,369,178,0 379,113,500,213,0 839,323,969,372,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000945.jpg 865,782,1004,915,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000946.jpg 645,786,747,853,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000947.jpg 1184,992,1314,1074,0 1302,611,1367,721,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000949.jpg 741,637,884,768,0 100,872,143,970,0 312,764,398,888,0 528,592,596,725,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000950.jpg 1175,11,1255,158,0 1084,696,1126,806,0 841,807,982,913,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000953.jpg 512,115,708,294,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000956.jpg 1006,1033,1143,1253,0 1133,813,1294,919,0 43,572,206,702,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000957.jpg 24,600,86,747,0 124,1511,210,1588,0 384,564,471,662,0 749,115,812,398,0 680,19,741,100,0 582,2,663,74,0 771,1227,884,1276,0 1026,1235,1073,1300,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000958.jpg 961,1658,1047,1817,0 1184,1607,1249,1751,0 202,1457,277,1537,0 49,458,90,621,0 4,715,118,804,0 159,539,182,647,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000959.jpg 243,906,286,994,0 1173,482,1251,558,0 139,1621,261,1690,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000960.jpg 1096,1184,1192,1302,0 449,231,539,347,0 239,1662,318,1811,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000961.jpg 684,823,731,988,0 718,355,753,458,0 273,900,310,1031,0 371,1715,433,1807,0 379,1649,492,1713,0 1106,921,1163,1027,0 1202,986,1269,1084,0 931,823,1031,941,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000964.jpg 1177,762,1286,817,0 1157,970,1231,1049,0 992,986,1080,1047,0 1179,1576,1302,1725,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000965.jpg 769,941,969,988,0 528,1649,618,1741,0 1284,1309,1335,1429,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000966.jpg 1,429,75,552,0 500,335,602,384,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000967.jpg 1086,992,1159,1094,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000968.jpg 1141,1009,1292,1080,0 328,484,500,535,0 347,300,418,362,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000973.jpg 639,768,704,1060,0 761,790,810,909,0 484,1445,608,1484,0 447,1492,559,1629,0 486,1390,524,1439,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000974.jpg 439,1631,507,1824,0 463,249,529,333,0 284,474,349,692,0 1028,374,1086,429,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000975.jpg 937,1253,1088,1447,0 1188,1057,1357,1166,0 749,592,810,686,0 2,276,204,374,0 267,1417,467,1543,0 1,1235,106,1307,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000978.jpg 663,586,804,711,0 700,431,733,545,0 561,492,688,551,0 516,300,602,490,0 688,1529,837,1623,0 355,1527,433,1615,0 296,1619,394,1731,0 28,129,75,204,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000979.jpg 1118,309,1271,396,0 339,4,420,149,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000981.jpg 867,125,935,207,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000982.jpg 355,937,390,1098,0 986,1611,1104,1751,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000983.jpg 902,925,1012,1043,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000984.jpg 702,345,888,413,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000985.jpg 959,492,1004,613,0 567,855,633,927,0 986,662,1096,707,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000986.jpg 279,288,439,380,0 622,1323,671,1404,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000987.jpg 194,1131,253,1374,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000988.jpg 567,937,729,1013,0 1022,23,1106,180,0 1214,1409,1318,1460,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000989.jpg 684,766,757,925,0 763,955,880,988,0 775,621,912,758,0 924,492,996,690,0 1167,500,1222,674,0 857,70,888,202,0 920,113,988,215,0 1275,119,1331,223,0 298,1213,449,1329,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000991.jpg 1259,515,1326,666,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000992.jpg 75,1206,163,1402,0 367,309,453,466,0 300,760,349,851,0 155,641,200,786,0 565,390,606,513,0 565,196,602,290,0 14,311,63,447,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000993.jpg 612,180,649,319,0 543,558,604,655,0 714,682,790,762,0 829,711,918,839,0 1116,551,1147,668,0 990,1568,1059,1649,0 126,1443,161,1545,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000994.jpg 1033,596,1075,741,0 798,923,857,1064,0 808,758,865,884,0 863,76,916,158,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000995.jpg 167,1502,349,1607,0 569,1527,667,1586,0 437,453,516,535,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000996.jpg 510,760,657,837,0 1069,1076,1182,1190,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000997.jpg 208,725,253,851,0 1202,576,1288,782,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000998.jpg 304,423,475,517,0 1175,386,1229,519,0 961,1217,1106,1329,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/000999.jpg 677,186,780,339,0 392,1347,480,1425,0 108,215,186,276,0
+G:\faster-rcnn\faster-rcnn-pytorch-master\faster-rcnn-pytorch-master\VOCdevkit/VOC2007/JPEGImages/001000.jpg 212,531,275,737,0
